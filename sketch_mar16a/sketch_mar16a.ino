@@ -1,3 +1,5 @@
+//carmen loh
+//in this project i used a 3 pin switch to replace the push button.
 int led_pin = 7;
 int switch_pin = 12;
 void setup() {
