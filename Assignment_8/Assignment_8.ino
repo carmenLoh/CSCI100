@@ -1,3 +1,4 @@
+//Carmen Loh
 //rainbow color with 1 second delay on the NeoPixel
 #include <Adafruit_NeoPixel.h>
 
